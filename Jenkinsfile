@@ -1,7 +1,7 @@
 node{
   stage("Test"){
     sh """
-      echo "Hello World"
+      echo "Hello World 2"
     """
   }
 }
